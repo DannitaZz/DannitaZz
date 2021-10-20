@@ -12,8 +12,8 @@
 ```javascript
 const Danna = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Jest],
+  code: [Javascript, HTML, CSS, SASS, Python],
+  tools: [React, Node, Jest, Bootstrap],
   challenge: "I am doing the frontend development projects of laboratoria"
 }
 ```
