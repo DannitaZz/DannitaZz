@@ -15,7 +15,7 @@ const Danna = {
   code: [Javascript, HTML, CSS, SASS, Python],
   tools: [React, NodeJS, Jest],
   comingSoon : [Express, MongoDB, Docker],
-  challenge: "I am doing the frontend development projects of laboratoria"
+  hobbies: "singing, reading, studying, and spending time with my pets."
 }
 ```
 
