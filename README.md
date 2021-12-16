@@ -1,6 +1,6 @@
 <h2> Hi, I'm Danna Cárdenas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn.shopify.com/s/files/1/0750/3577/products/alice-in-wonderland-pdxc1187-color-illustration-piddix_471_2048x.jpg?v=1515570428" width="230">
-<p><em>Chemical Engineering student at <a href="https://www.univalle.edu.co/">Universidad del Valle </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Development student at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Chemical Engineering student at <a href="https://www.univalle.edu.co/">Universidad del Valle </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: DannaValentina](https://img.shields.io/badge/-DannaCardenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danna-valentina-cardenas/)](https://www.linkedin.com/in/danna-valentina-cardenas/)
