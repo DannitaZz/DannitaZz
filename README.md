@@ -13,8 +13,8 @@
 const Danna = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, SASS, Python],
-  tools: [React, NodeJS, Express, MongoDB, Docker, Jest],
-  comingSoon : [Redux, Bootstrap],
+  tools: [React, Redux,  NodeJS, Express, MongoDB, Docker, Jest],
+  comingSoon : [Bootstrap, Tailwind, NextJS],
   hobbies: "singing, reading, studying, and spending time with my pets."
 }
 ```
