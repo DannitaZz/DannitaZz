@@ -12,7 +12,7 @@
 ```javascript
 const Danna = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
+  code: [Javascript,Typescript, HTML, CSS, Python],
   comingSoon : [ NextJS, Tailwind],
   hobbies: "singing, reading, studying, and spending time with my pets."
 }
