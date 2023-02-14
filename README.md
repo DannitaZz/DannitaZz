@@ -12,16 +12,19 @@
 ```javascript
 const Danna = {
   pronouns: "she" | "her",
-  code: [Javascript,Typescript, HTML, CSS, Python],
+  code: [Javascript,Typescript, C#, HTML, CSS, Python],
   comingSoon : [ NextJS, Tailwind],
   hobbies: "singing, reading, studying, and spending time with my pets."
 }
 ```
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![VueJs](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
@@ -29,6 +32,7 @@ const Danna = {
 --
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![Mongo](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
